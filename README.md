@@ -1,3 +1,5 @@
 # Leetcode
 My Leetcode Solutions
-# python 3.6
+# other
+hdu/poj
+# python 3.6 / C++ 
