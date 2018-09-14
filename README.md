@@ -1,4 +1,4 @@
-# Leetcode
+# Leetcode / Leetcode Tencent serial
 My Leetcode Solutions
 # other
 hdu/poj
