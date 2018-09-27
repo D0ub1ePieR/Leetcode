@@ -26,3 +26,5 @@
       * mid中tmid其他值和tmid中相邻两个mid的index之间在height中的值比两端tmid对应在mid中index在height中的值大的值
       * **将代码中注释掉的输出取消注释后可以更好的得理解**，最终目的是得到所有能接水的坑的两边边界在height中的index存入mid中
   * 最后去掉mid两端的0，遍历mid，取相邻两个值中较小的一个，即当前坑最高的高度，遍历height中这个坑的index，算出所有雨水总和
+
+#
