@@ -2,4 +2,4 @@
 My Leetcode Solutions
 # other
 hdu/poj
-# python 3.6 / C++ 
+# python 3 / C++ 
