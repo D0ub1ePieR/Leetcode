@@ -20,7 +20,7 @@ for file in files:
     index = filename.index('-')
     num = filename[:index]
     name = filename[index+1:]
-    f.write('| ' + num + ' | ' + name + ' |\n')
+    f.write('| ' + num + ' | [' + name + '](' + file + ') |\n')
     pass
 
 f.close()
