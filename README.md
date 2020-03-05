@@ -3,7 +3,7 @@
 ***
 <start-tag>
 
-当前进度:  **13 / -**
+当前进度:  **18 / -**
 | No. | 题目名称 | Language | 难度 | tag | 运行速度(超过) | 占用内存(超过) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | [两数之和](./solutions/1-Two_Sum-两数之和) | python3 | simple | 哈希表 数组 | 73.87% | 18.46% |
@@ -14,11 +14,16 @@
 | 69 | [x的平方根](./solutions/69-Sqrt(x)-x的平方根) | python3 | simple | 数学 二分查找 | 54.50% | 37.51% |
 | 74 | [搜索二维矩阵](./solutions/74-Search_a_2D_Matrix-搜索二维矩阵) | python3 | medium | 数组 二分查找 |  5.49% |  5.11% |
 | 167 | [两数之和Ⅱ_输入有序数组](./solutions/167-Two_SumII_Input_array_is_sorted-两数之和Ⅱ_输入有序数组) | python3 | simple | 双指针 数组 二分查找 | 73.28% | 48.12% |
+| 172 | [阶乘后的零](./solutions/172-Factorial_Trailing_Zeroes-阶乘后的零) | python3 | simple | 数学 | 77.80% | 30.69% |
+| 233 | [数字1的个数](./solutions/233-Number_of_Digit_One-数字1的个数) |  |  |  |  |  |
 | 240 | [搜索二维矩阵II](./solutions/240-Search_a_2D_Matrix_II-搜索二维矩阵II) | python3 | medium | 二分查找 分治算法 | 55.65% | 32.27% |
-| 367 | [有效的完全平方数](./solutions/367-Valid_Perfect_Square-有效的完全平方数) | python3 | simple | 数学 二分查找 | --.--% | --.--% |
+| 367 | [有效的完全平方数](./solutions/367-Valid_Perfect_Square-有效的完全平方数) | python3 | simple | 数学 二分查找 | 75.78% | 30.39% |
 | 372 | [超级次方](./solutions/372-Super_Pow-超级次方) | python3 | medium | 数学 | 87.19% | 37.10% |
 | 454 | [四数相加II](./solutions/454-4Sum_II-四数相加II) | python3 | medium | 哈希表 二分查找 | 83.26% | 19.72% |
+| 633 | [平方数之和](./solutions/633-Sum_of_Square_Numbers-平方数之和) | python3 | simple | 数学 | 98.43% | 25.59% |
 | 653 | [两数之和IV_输入BST](./solutions/653-Two_Sum_IV_Input_is_a_BST-两数之和IV_输入BST) | python3 | simple | 树 | 90.45% | 37.64% |
+| 670 | [最大交换](./solutions/670-Maximum_Swap-最大交换) | python3 | medium | 数组 数学 | 75.33% | 28.13% |
+| 793 | [阶乘函数后K个零](./solutions/793-Preimage_Size_of_Factorial_Zeroes_Function-阶乘函数后K个零) | python3 | hard | 二分查找 | 64.91% | 52.00% |
 
 <end-tag>
 
