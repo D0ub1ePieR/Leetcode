@@ -3,7 +3,7 @@
 ***
 <start-tag>
 
-当前进度:  **18 / -**
+当前进度:  **23 / -**
 | No. | 题目名称 | Language | 难度 | tag | 运行速度(超过) | 占用内存(超过) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | [两数之和](./solutions/1-Two_Sum-两数之和) | python3 | simple | 哈希表 数组 | 73.87% | 18.46% |
@@ -15,8 +15,13 @@
 | 74 | [搜索二维矩阵](./solutions/74-Search_a_2D_Matrix-搜索二维矩阵) | python3 | medium | 数组 二分查找 |  5.49% |  5.11% |
 | 167 | [两数之和Ⅱ_输入有序数组](./solutions/167-Two_SumII_Input_array_is_sorted-两数之和Ⅱ_输入有序数组) | python3 | simple | 双指针 数组 二分查找 | 73.28% | 48.12% |
 | 172 | [阶乘后的零](./solutions/172-Factorial_Trailing_Zeroes-阶乘后的零) | python3 | simple | 数学 | 77.80% | 30.69% |
-| 233 | [数字1的个数](./solutions/233-Number_of_Digit_One-数字1的个数) |  |  |  |  |  |
+| 202 | [快乐数](./solutions/202-Happy_Number-快乐数) | python3 | simple | 哈希表 数学 | 31.73% | 15.50% |
+| 233 | [数字1的个数](./solutions/233-Number_of_Digit_One-数字1的个数) | python3 | hard | 数学 | 76.90% |  6.94% |
 | 240 | [搜索二维矩阵II](./solutions/240-Search_a_2D_Matrix_II-搜索二维矩阵II) | python3 | medium | 二分查找 分治算法 | 55.65% | 32.27% |
+| 258 | [各位相加](./solutions/258-Add_Digits-各位相加) | python3 | simple | 数学 | 68.98% | 15.63% |
+| 263 | [丑数](./solutions/263-Ugly_Number-丑数) | python3 | simple | 数学 | 43.39% | 14.96% |
+| 264 | [丑数II](./solutions/264-Ugly_Number_II-丑数II) | python3 | hard | 堆 数学 动态规划 | 96.62% |  5.02% |
+| 313 | [超级丑数](./solutions/313-Super_Ugly_Number-超级丑数) | python3 | medium | 堆 数学 | 91.21% | 41.05% |
 | 367 | [有效的完全平方数](./solutions/367-Valid_Perfect_Square-有效的完全平方数) | python3 | simple | 数学 二分查找 | 75.78% | 30.39% |
 | 372 | [超级次方](./solutions/372-Super_Pow-超级次方) | python3 | medium | 数学 | 87.19% | 37.10% |
 | 454 | [四数相加II](./solutions/454-4Sum_II-四数相加II) | python3 | medium | 哈希表 二分查找 | 83.26% | 19.72% |
