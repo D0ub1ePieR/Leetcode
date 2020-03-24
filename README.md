@@ -3,7 +3,7 @@
 ***
 <start-tag>
 
-当前进度:  **23 / -**
+当前进度:  **28 / -**
 | No. | 题目名称 | Language | 难度 | tag | 运行速度(超过) | 占用内存(超过) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | [两数之和](./solutions/1-Two_Sum-两数之和) | python3 | simple | 哈希表 数组 | 73.87% | 18.46% |
@@ -16,19 +16,24 @@
 | 167 | [两数之和Ⅱ_输入有序数组](./solutions/167-Two_SumII_Input_array_is_sorted-两数之和Ⅱ_输入有序数组) | python3 | simple | 双指针 数组 二分查找 | 73.28% | 48.12% |
 | 172 | [阶乘后的零](./solutions/172-Factorial_Trailing_Zeroes-阶乘后的零) | python3 | simple | 数学 | 77.80% | 30.69% |
 | 202 | [快乐数](./solutions/202-Happy_Number-快乐数) | python3 | simple | 哈希表 数学 | 31.73% | 15.50% |
+| 204 | [计算质数](./solutions/204-Count_Primes-计算质数) | python3 | simple | 哈希表 数学 | 92.78% |  6.58% |
+| 209 | [长度最小的子数组](./solutions/209-Minimum_Size_Subarray_Sum-长度最小的子数组) | python3 | medium | 数组 双指针 二分查找 | 86.32% | 90.95% |
 | 233 | [数字1的个数](./solutions/233-Number_of_Digit_One-数字1的个数) | python3 | hard | 数学 | 76.90% |  6.94% |
 | 240 | [搜索二维矩阵II](./solutions/240-Search_a_2D_Matrix_II-搜索二维矩阵II) | python3 | medium | 二分查找 分治算法 | 55.65% | 32.27% |
 | 258 | [各位相加](./solutions/258-Add_Digits-各位相加) | python3 | simple | 数学 | 68.98% | 15.63% |
 | 263 | [丑数](./solutions/263-Ugly_Number-丑数) | python3 | simple | 数学 | 43.39% | 14.96% |
 | 264 | [丑数II](./solutions/264-Ugly_Number_II-丑数II) | python3 | hard | 堆 数学 动态规划 | 96.62% |  5.02% |
+| 279 | [完全平方数](./solutions/279-Perfect_Squares-完全平方数) | python3 | medium | 动态规划 广度优先搜索 数学 | 73.84% | 11.18% |
 | 313 | [超级丑数](./solutions/313-Super_Ugly_Number-超级丑数) | python3 | medium | 堆 数学 | 91.21% | 41.05% |
 | 367 | [有效的完全平方数](./solutions/367-Valid_Perfect_Square-有效的完全平方数) | python3 | simple | 数学 二分查找 | 75.78% | 30.39% |
 | 372 | [超级次方](./solutions/372-Super_Pow-超级次方) | python3 | medium | 数学 | 87.19% | 37.10% |
+| 441 | [排列硬币](./solutions/441-Arranging_Coins-排列硬币) | python3 | simple | 数学 二分查找 | 76.50% |  5.73% |
 | 454 | [四数相加II](./solutions/454-4Sum_II-四数相加II) | python3 | medium | 哈希表 二分查找 | 83.26% | 19.72% |
 | 633 | [平方数之和](./solutions/633-Sum_of_Square_Numbers-平方数之和) | python3 | simple | 数学 | 98.43% | 25.59% |
 | 653 | [两数之和IV_输入BST](./solutions/653-Two_Sum_IV_Input_is_a_BST-两数之和IV_输入BST) | python3 | simple | 树 | 90.45% | 37.64% |
 | 670 | [最大交换](./solutions/670-Maximum_Swap-最大交换) | python3 | medium | 数组 数学 | 75.33% | 28.13% |
 | 793 | [阶乘函数后K个零](./solutions/793-Preimage_Size_of_Factorial_Zeroes_Function-阶乘函数后K个零) | python3 | hard | 二分查找 | 64.91% | 52.00% |
+| 794 | [有效的井字游戏](./solutions/794-Valid_Tic_Tac_Toe_State-有效的井字游戏) | python3 | medium | 递归 数学 | 33.33% |  5.00% |
 
 <end-tag>
 
