@@ -3,16 +3,21 @@
 ***
 <start-tag>
 
-当前进度:  **28 / -**
+当前进度:  **37 / -**
 | No. | 题目名称 | Language | 难度 | tag | 运行速度(超过) | 占用内存(超过) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 | 1 | [两数之和](./solutions/1-Two_Sum-两数之和) | python3 | simple | 哈希表 数组 | 73.87% | 18.46% |
 | 15 | [三数之和](./solutions/15-3Sum-三数之和) | python3 | medium | 数组 双指针 | 99.15% | 20.33% |
 | 16 | [最接近的三数之和](./solutions/16-3Sum_Closest-最接近的三数之和) | python3 | medium | 数组 双指针 | 95.13% | 47.01% |
 | 18 | [四数之和](./solutions/18-4Sum-四数之和) | python3 | medium | 数组 双指针 哈希表 | 87.45% | 42.64% |
+| 21 | [合并两个有序链表](./solutions/21-Merge_Two_Sorted_Lists-合并两个有序链表) | python3 | simple | 链表 | 51.81% |  5.05% |
+| 33 | [搜索旋转排序数组](./solutions/33-Search_in_Rotated_Sorted_Array-搜索旋转排序数组) | python3 | medium | 数组 二分查找 | 58.22% |  5.24% |
 | 50 | [Pow(x,n)](./solutions/50-Pow(x,n)-Pow(x,n)) | python3 | medium | 数字 二分查找 | 76.74% | 32.14% |
 | 69 | [x的平方根](./solutions/69-Sqrt(x)-x的平方根) | python3 | simple | 数学 二分查找 | 54.50% | 37.51% |
 | 74 | [搜索二维矩阵](./solutions/74-Search_a_2D_Matrix-搜索二维矩阵) | python3 | medium | 数组 二分查找 |  5.49% |  5.11% |
+| 81 | [搜索旋转排序数组II](./solutions/81-Search_in_Rotated_Sorted_Array_II-搜索旋转排序数组II) | python3 | medium | 数组 二分查找 | 92.63% |  8.00% |
+| 88 | [合并两个有序数组](./solutions/88-Merge_Sorted_Array-合并两个有序数组) | python3 | simple | 数组 双指针 | 43.32% |  5.36% |
+| 153 | [寻找旋转排序数组中的最小值](./solutions/153-Find_Minimum_in_Rotated_Sorted_Array-寻找旋转排序数组中的最小值) | python3 | medium | 数组 二分查找 | 87.08% |  5.04% |
 | 167 | [两数之和Ⅱ_输入有序数组](./solutions/167-Two_SumII_Input_array_is_sorted-两数之和Ⅱ_输入有序数组) | python3 | simple | 双指针 数组 二分查找 | 73.28% | 48.12% |
 | 172 | [阶乘后的零](./solutions/172-Factorial_Trailing_Zeroes-阶乘后的零) | python3 | simple | 数学 | 77.80% | 30.69% |
 | 202 | [快乐数](./solutions/202-Happy_Number-快乐数) | python3 | simple | 哈希表 数学 | 31.73% | 15.50% |
@@ -29,11 +34,15 @@
 | 372 | [超级次方](./solutions/372-Super_Pow-超级次方) | python3 | medium | 数学 | 87.19% | 37.10% |
 | 441 | [排列硬币](./solutions/441-Arranging_Coins-排列硬币) | python3 | simple | 数学 二分查找 | 76.50% |  5.73% |
 | 454 | [四数相加II](./solutions/454-4Sum_II-四数相加II) | python3 | medium | 哈希表 二分查找 | 83.26% | 19.72% |
+| 526 | [优美的排列](./solutions/526-Beautiful_Arrangement-优美的排列) | python3 | medium | 回溯算法 | 70.52% | 25.00% |
 | 633 | [平方数之和](./solutions/633-Sum_of_Square_Numbers-平方数之和) | python3 | simple | 数学 | 98.43% | 25.59% |
 | 653 | [两数之和IV_输入BST](./solutions/653-Two_Sum_IV_Input_is_a_BST-两数之和IV_输入BST) | python3 | simple | 树 | 90.45% | 37.64% |
+| 667 | [优美的排列II](./solutions/667-Beautiful_Arrangement_II-优美的排列II) | python3 | medium | 数组 | 72.83% | 50.00% |
 | 670 | [最大交换](./solutions/670-Maximum_Swap-最大交换) | python3 | medium | 数组 数学 | 75.33% | 28.13% |
+| 718 | [最长重复子数组](./solutions/718-Maximum_Length_of_Repeated_Subarray-最长重复子数组) | python3 | medium | 数组 二分查找 哈希表 动态规划 | 88.42% |  6.00% |
 | 793 | [阶乘函数后K个零](./solutions/793-Preimage_Size_of_Factorial_Zeroes_Function-阶乘函数后K个零) | python3 | hard | 二分查找 | 64.91% | 52.00% |
 | 794 | [有效的井字游戏](./solutions/794-Valid_Tic_Tac_Toe_State-有效的井字游戏) | python3 | medium | 递归 数学 | 33.33% |  5.00% |
+| 977 | [有序数组的平方](./solutions/977-Squares_of_a_Sorted_Array-有序数组的平方) | python3 | simple | 数组 双指针 | 82.29% |  5.36% |
 
 <end-tag>
 
