@@ -58,7 +58,7 @@ for num in nums:
     name = get_name(dic[num])
     language, level, tag, speed, memory = get_info(dic[num])
     url = path + dic[num]
-    file.write('| %s | [%s](%s) | %s | %s | %s | %s | %s |\n' % (str(no), name, url, language, level, tag, speed, memory))
+    file.write('| %s | [%s](%s) | %s | %s | %s | %s | %s |\n' % (str(no), name, url, language.replace('python', 'py'), level, tag, speed, memory))
 
 for i in range(end-1, len(lines)):
     file.write(lines[i])
